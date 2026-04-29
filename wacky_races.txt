@@ -1,0 +1,3 @@
+BinarySunday=0.634469 GusfieldZ=0.577885 ratio=0.910817
+KMP=0.434338 RabinKarp=0.246323 ratio=0.567123
+RabinKarp=0.246018 Sunday=3e-05 ratio=0.000121942
